@@ -1,0 +1,1 @@
+# boyer-moore-horspool-2-characters
