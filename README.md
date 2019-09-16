@@ -5,7 +5,7 @@ The program displays the number of occurrences and the position of the occurrenc
 
 ## Usage
 
-Le premier argument doit être un fichier .fasta qui contient une séquence. Le deuxième argument est le motif recherché dans la séquence.
+The first argument must be a.fasta file that contains a sequence. The second argument is the pattern sought in the sequence.
 
 ## Example
 
